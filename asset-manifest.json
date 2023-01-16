@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scsetechfest-team62/static/css/main.9ab8ff9f.css",
-    "main.js": "/scsetechfest-team62/static/js/main.e954cf19.js",
+    "main.css": "/scsetechfest-team62/static/css/main.f0ae5f89.css",
+    "main.js": "/scsetechfest-team62/static/js/main.329530e0.js",
     "static/js/787.102f339f.chunk.js": "/scsetechfest-team62/static/js/787.102f339f.chunk.js",
     "index.html": "/scsetechfest-team62/index.html",
-    "main.9ab8ff9f.css.map": "/scsetechfest-team62/static/css/main.9ab8ff9f.css.map",
-    "main.e954cf19.js.map": "/scsetechfest-team62/static/js/main.e954cf19.js.map",
+    "main.f0ae5f89.css.map": "/scsetechfest-team62/static/css/main.f0ae5f89.css.map",
+    "main.329530e0.js.map": "/scsetechfest-team62/static/js/main.329530e0.js.map",
     "787.102f339f.chunk.js.map": "/scsetechfest-team62/static/js/787.102f339f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ab8ff9f.css",
-    "static/js/main.e954cf19.js"
+    "static/css/main.f0ae5f89.css",
+    "static/js/main.329530e0.js"
   ]
 }
