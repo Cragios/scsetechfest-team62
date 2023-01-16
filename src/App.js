@@ -1,12 +1,15 @@
-import BattlePass from "./components/BattlePass";
+import { useState } from "react";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
-import MainPage from "./components/MainPage";
+import Pages from "./components/Pages";
 
 function App() {
+  const [page, setPage] = useState("home");
   return (
     <div>
       <Header />
-      <MainPage />
+      <Pages page={page} />
+      <Footer setPage={setPage} />
     </div>
   );
 }
